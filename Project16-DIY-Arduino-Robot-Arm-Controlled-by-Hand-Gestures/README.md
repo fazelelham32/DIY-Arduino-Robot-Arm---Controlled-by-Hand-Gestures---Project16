@@ -1,6 +1,13 @@
 # DIY Arduino Robot Arm - Controlled by Hand Gestures - Project16
 Arduino Robotic Arm - Controlled by Hand Gestures
 This project is a tutorial on how to build a DIY Robotic Arm controlled by hand gestures. The Robotic arm is able to be controlled wirelessly from a distance as well as perform basic functions on its own.
+# Robot Arm: Thingiverse 3D Printed Robotic Arm - https://www.thingiverse.com/thing:1748596
+### Part 1: Gripper Parts
+### Part 2: Base and Turntable
+### Part 3: Robotic Core Arm
+
+# Robotic Glove: Thingyverse Robotic Glove/ Gauntlet - https://www.thingiverse.com/thing:1982745
+### Robotic Glove
 
 # Mark One Robotic Arm
 Mark One is an Arduino-powered robotic arm prototype designed for object manipulation, gesture-based control, and wireless operation. It features a claw for gripping objects, six servo motors for multi-axis movement, and a stepper motor for base rotation.
