@@ -15,7 +15,7 @@ Mark One is an Arduino-powered robotic arm prototype designed for object manipul
 This project also includes a robotic glove controller, allowing the arm to be operated through natural hand gestures using flex sensors and an accelerometer over Bluetooth.
 
 # Project Overview
-Mark One is a first-generation robotic arm built as a flexible and expandable prototype. The system is composed of two main parts:
+Mark One is a first-generation robotic arm built as a flexible and expandable prototype. The system is composed of two main parts: https://smartbuilds.io/
 
 A robotic arm that performs movement and gripping tasks.
 
